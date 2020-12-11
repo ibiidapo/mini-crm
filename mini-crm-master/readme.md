@@ -4,7 +4,7 @@
 # Author
 <p>Created by Ibidapo Ogundepo<p>
 <p>Mobile and Full Stack Developer<p>
-<a href="https://linkedin.com/in/darkpain">LinkedIn</a>
+<a href="https://www.linkedin.com/in/ibidapo-ogundepo-9347a173/">LinkedIn</a>
 
 # Requirements
 - PHP: >=7.1.3
